@@ -1,2 +1,5 @@
-# EvidenciaCitas
-Proyecto de Tecmilenio, Computacion en Java creacion de programa de citas de doctores para usuarios.
+# Proyecto Administracion de citas de Consultorio Dental
+Creacion de usuarios/pacientes
+Creacion de citas
+Eliminar uaurios y citas
+Administrar citas
